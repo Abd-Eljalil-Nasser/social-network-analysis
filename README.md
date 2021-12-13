@@ -10,7 +10,7 @@ Degree centrality is a simple count of the total number of connections linked to
 The degree centrality for a node is simply its degree. A node with 10 social connections would have a degree centrality of 10. A node with 1 edge would have a degree centrality of 1.
 ### Closeness centrality
 Closeness centrality indicates how close a node is to all other nodes in the network. It is calculated as the average of the shortest path length from the node to every other node in the network. consider the figure 
-![](closeness centrality figure.jpg)  
+![](closeness_centrality_figure.jpg)  
 Let’s start by computing the average shortest path length of node D.  
 The follwoing table shows each node and the length of the shortest path from D.
 
